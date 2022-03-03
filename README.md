@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**tanimaraeliassantos/tanimaraeliassantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h1>
+Hi! 👋
+</h1>
+  <p> I'm <b>Tanimara</b>, developer and lifelong learner.</p>
+Reach out at my <a href="mailto:tanimaraeliassantos@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/tanimara-santos/">LinkedIn</a>.
+  <br>
+   <br>  
+<i>Do the next right thing!</i>
+  </div>
